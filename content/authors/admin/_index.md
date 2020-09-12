@@ -38,9 +38,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FenCameron
-- icon: cv
-  icon_pack: ai
-  url : https://drive.google.com/file/d/1FRFub_Nw2OEOuSIgdPbOxyTwDX162Wox/view?usp=sharing
 - icon: github
   icon_pack: fab
   link: https://github.com/www3cam
@@ -56,4 +53,4 @@ email: ""
 # - Visitors
 # ---
 ---
-Welcome to my website.  I work at the intersection of machine learning and macroeconomics.  I'm especially interested in using the tools of deep learning to improve forecasting and macroeconometric modelling.  
+Welcome to my website.  I work at the intersection of machine learning and macroeconomics.  I'm especially interested in using the tools of deep learning to improve forecasting and macroeconometric modelling.  Here is my [CV]({{< ref "/files/cv.pdf" >}} "CV").  
