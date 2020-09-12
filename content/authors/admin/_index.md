@@ -38,9 +38,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FenCameron
-- icon: facebook
-  icon_pack: fab
-  url : "files/cv.pdf"
+- icon: cv
+  icon_pack: ai
+  url : https://drive.google.com/file/d/1FRFub_Nw2OEOuSIgdPbOxyTwDX162Wox/view?usp=sharing
 - icon: github
   icon_pack: fab
   link: https://github.com/www3cam
