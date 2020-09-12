@@ -34,15 +34,15 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:camfen@umich.edu".
+  link: "mailto:camfen@umich.edu"  # For a direct email link, use "mailto:camfen@umich.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FenCameron
 - icon: github
   icon_pack: fab
   link: https://github.com/www3cam
-- icon: cv
-  icon_pack: ai
+- icon: github
+  icon_pack: fab
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
