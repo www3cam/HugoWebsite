@@ -43,7 +43,7 @@ social:
   link: https://github.com/www3cam
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
