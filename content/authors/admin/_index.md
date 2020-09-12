@@ -53,4 +53,4 @@ email: ""
 # - Visitors
 # ---
 ---
-Welcome to my website.  I work at the intersection of machine learning and macroeconomics.  I'm especially interested in using the tools of deep learning to improve forecasting and macroeconometric modelling.  Here is my [CV]({{< relref "/cv.pdf" >}} "CV").  
+Welcome to my website.  I work at the intersection of machine learning and macroeconomics.  I'm especially interested in using the tools of deep learning to improve forecasting and macroeconometric modelling.  Here is my [CV]({{< ref "/cv.pdf" >}} "CV").  
