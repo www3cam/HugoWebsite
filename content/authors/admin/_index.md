@@ -40,7 +40,7 @@ social:
   link: https://twitter.com/FenCameron
 - icon: facebook
   icon_pack: fab
-  url : static/files/cv.pdf
+  url : files/cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/www3cam
